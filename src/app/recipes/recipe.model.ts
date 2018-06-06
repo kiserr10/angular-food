@@ -1,5 +1,3 @@
-
-
 export class Recipe {
 	//can be publically accessed//
 	public name: string;
